@@ -2,8 +2,24 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
-    }
+      "title": "David"
+    },
+        {
+      "id": 2,
+      "title": "Dana"
+    },
+        {
+      "id": 3,
+      "title": "Jovan"
+    },
+        {
+      "id": 4,
+      "title": "Kalyn"
+    },
+        {
+      "id": 5,
+      "title": "Elijah"
+    },
   ],
   "profile": {
     "name": "typicode"
